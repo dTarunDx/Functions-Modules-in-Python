@@ -12,7 +12,7 @@ A simple Python script that:
 
 ## Task 2:  Using the Math Module for Calculations
  A simple Python program that:
-- Calculates:
+ - Takes input from user and calculates the following functions
  - Square root (for positive numbers)
  - Natural logarithm (for positive numbers)
  - Sine value (in radians) after taking an input from the user
